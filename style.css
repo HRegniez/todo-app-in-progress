@@ -50,4 +50,12 @@ main i {
 }
 main i:hover {
   background-color: #026c7c;
+}
+main .todo {
+  margin: 1rem;
+  display: flex;
+  justify-content: space-around;
+}
+main .newTodo {
+  flex: 1;
 }/*# sourceMappingURL=style.css.map */

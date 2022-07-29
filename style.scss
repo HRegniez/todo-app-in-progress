@@ -58,4 +58,13 @@ main {
             background-color: $clr-prim5;
         }
     }
+
+    .todo {
+        margin: 1rem;
+        display: flex;
+        justify-content: space-around;
+    }
+    .newTodo {
+        flex: 1;
+    }
 }

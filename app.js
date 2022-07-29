@@ -38,4 +38,7 @@ function addTodo(event){
 
     //Append to list
     todoList.appendChild(todoDiv);
+
+    //Todo Input RESET
+    todoIn.value = "";
 }
